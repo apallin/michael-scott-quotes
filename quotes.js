@@ -14,7 +14,7 @@ module.exports = [
     "I feel like all my kids grew up, and then they married each other, it's every parent's dream.",
     "I DECLARE BANKRUPTCY!",
     "Dwight, you ignorant sl*t.",
-    "That's what she said."
+    "That's what she said.",
     "NO! GOD! NO GOD PLEASE NO! NO! NOOOOOOOOOOOOOOOOOOOOOOOOOOOOO",
     "STANLEY STANLEY YOU WILL NOT DIE STANLEY STANLEY BARACK IS PRESIDENT",
     "I am downloading some n3p music.",
