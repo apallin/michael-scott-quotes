@@ -8,13 +8,13 @@ module.exports = [
     "I'm not superstitious, but I am a little stitous.",
     "There's such a thing as good grief. Just ask Charlie Brown.",
     "Oh God, my mind is going a mile an hour.",
-    "I am Beyoncé, always."
+    "I am Beyoncé, always.",
     "I love Burlington Coat Factory.",
     "PowerPoint. PowerPoint.",
     "I feel like all my kids grew up, and then they married each other, it's every parent's dream.",
     "I DECLARE BANKRUPTCY!",
     "Dwight, you ignorant sl*t.",
-    "That's what she said."
+    "That's what she said.",
     "NO! GOD! NO GOD PLEASE NO! NO! NOOOOOOOOOOOOOOOOOOOOOOOOOOOOO",
     "STANLEY STANLEY YOU WILL NOT DIE STANLEY STANLEY BARACK IS PRESIDENT",
     "I am downloading some n3p music.",
