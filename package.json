@@ -1,0 +1,31 @@
+{
+  "name": "michael-scott-quotes",
+  "version": "2.1.1",
+  "description": "An API for retrieving Michael Scott quotes",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/apallin/michael-scott-quotes"
+  },
+  "keywords": [
+    "michael",
+    "scott",
+    "quotes",
+    "office",
+    "the office"
+  ],
+  "author": "Adam Pallin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/apallin/michael-scott-quotes/issues"
+  },
+  "homepage": "https://github.com/apallin/michael-scott-quotes/ron-swanson-quotes",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "4.11.0"
+  },
+  "engines": {
+    "node": "8.x.x"
+  }
+}
